@@ -1,0 +1,13 @@
+*{
+    position: relative;
+    text-align: center;
+    color: #282b29;
+}
+.text-part{
+    position: relative;
+    
+}
+
+.text-part p{
+    font-size: 60px;
+}
